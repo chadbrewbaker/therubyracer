@@ -17,5 +17,5 @@ Gem::Specification.new do |gem|
   gem.license       = 'MIT'
 
   gem.add_dependency 'ref'
-  gem.add_dependency 'libv8', '~> 3.16.14.15'
+  gem.add_dependency 'libv8'
 end
